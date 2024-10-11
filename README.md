@@ -2,7 +2,7 @@
 Всё легко и просто 
 Пишем в консоль термукса:
 ```
-https://github.com/F1xTrack/Termux-notifications.git
+git clone https://github.com/F1xTrack/Termux-notifications.git
 cd Termux-notifications
 pip install datetime
 notifications.py
@@ -13,9 +13,10 @@ notifications.py
 ```
 apt update
 apt upgrade
+apt install git
 apt install python
 apt install python-pip
 ```
 При обновлении(apt upgrade) везде пишем N(значение по умолчанию)
-При установке Python и Pip просто со всем соглашаемся
+При установке Git, Python и Pip просто со всем соглашаемся
 И можно приступать к шагу 1
