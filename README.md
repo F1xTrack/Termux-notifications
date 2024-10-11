@@ -5,7 +5,7 @@
 git clone https://github.com/F1xTrack/Termux-notifications.git
 cd Termux-notifications
 pip install datetime
-notifications.py
+python notifications.py
 ```
 
 # Если открыли Termux в первый раз и не понимаете, что происходит
